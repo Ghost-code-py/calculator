@@ -35,7 +35,11 @@ function deletar(){
 }
 
 function calcular(){
+    try{
     var resultado = document.getElementById('resultado').innerHTML
   if (resultado.length >= 1){
     document.getElementById('resultado').innerHTML = eval(resultado)
   }verificar()}
+    catch(error){
+        resultado = 0
+    }}
