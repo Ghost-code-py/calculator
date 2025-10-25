@@ -1,2 +1,2 @@
 # calculator
-calculator with javascript, CSS, HTML only, don't have framework
+calculator using only javascript, CSS, HTML, don't have framework
