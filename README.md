@@ -1,5 +1,5 @@
 # calculator
-A simple calculator for my github. Here i just use the basics - HTML, CSS, javascript
+A simple calculator for my github. Here i just used the basics - HTML, CSS, javascript
 
 
 Used grids display and buttons to make it, putting some style from CSS for a better visual.
