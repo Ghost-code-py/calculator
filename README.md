@@ -2,7 +2,7 @@
 A simple calculator for my github. Here i just used the basics - HTML, CSS, javascript
 
 
-Used grids display and buttons to make it, putting some style from CSS for a better visual.
+Used grids display and buttons to make it, putting some style from CSS for a better visual and used javascript for functions.
 
 
 Really don't have that much to say, first of first project that i ever made and posting here
