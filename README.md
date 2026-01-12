@@ -7,4 +7,4 @@ Used grids display and buttons to make it, putting some style from CSS for a bet
 
 Really don't have that much to say, first of first project that i ever made and posting here
 just to have something to someone see. This time i'm just finalizating anothers projects and after
-this i'll bring them to here.
+this i'll bringing them to here.
